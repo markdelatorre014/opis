@@ -20,7 +20,7 @@ import {
   Wand2
 } from 'lucide-react';
 
-const apiKey = "";
+const apiKey = "AIzaSyAf6yR4bCdjM7fc2OJc6Z2WIMKmHJzvAkE";
 
 // Helper for Gemini API calls with exponential backoff
 async function callGemini(userQuery, systemPrompt = "") {
